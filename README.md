@@ -2,6 +2,7 @@
 
 A curated list of top tools for Search Engine Optimization (SEO), covering various aspects such as keyword research, on-page optimization, technical SEO, link building, analytics, and more. Contributions are welcome to help expand and improve this list.
 
+
 ## Table of Contents
 
 1. [Keyword Research Tools](#keyword-research-tools)
